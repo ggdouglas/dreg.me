@@ -29,7 +29,6 @@ body {
 .greeting {
   font-family: 'Pacifico', cursive;
   font-size: 6em;
-  color: #01B0F0;
   cursor: default;
 }
 .social__link {
