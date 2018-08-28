@@ -1,0 +1,18 @@
+{
+  "name": "dreg",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "author": "Greg Douglas <gwshark0@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "GWShark0/dreg",
+  "homepage": "https://github.com/GWShark0/dreg#readme",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "prebuild": "rm -rf dist",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.9.7"
+  }
+}

@@ -1,0 +1,28 @@
+html {
+  font-family: sans-serif;
+}
+
+.page {
+  padding-top: 100px;
+}
+
+.greeting {
+  margin: 0;
+  font-family: 'Pacifico';
+  font-size: 5rem;
+  text-align: center;
+}
+
+.social {
+  text-align: center;
+}
+
+.social__link {
+  margin: 0 4px;
+  text-decoration: none;
+}
+
+.social__icon {
+  width: 32px;
+  height: 32px;
+}
