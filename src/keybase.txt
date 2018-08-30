@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/dreg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dreg.me
+  * I am dreg (https://keybase.io/dreg) on keybase.
+  * I have a public key with fingerprint D821 4416 DDA5 A8CA FCB4  41C9 DE1E 1C56 0329 1472
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d12f1619198a439dac9c7bc04157d37b151b358c1f3c9e89f7383a7a21d417050a",
+      "fingerprint": "d8214416dda5a8cafcb441c9de1e1c5603291472",
+      "host": "keybase.io",
+      "key_id": "de1e1c5603291472",
+      "kid": "0101d12f1619198a439dac9c7bc04157d37b151b358c1f3c9e89f7383a7a21d417050a",
+      "uid": "fb033c4b2e90872be1a5a21fe17b6219",
+      "username": "dreg"
+    },
+    "merkle_root": {
+      "ctime": 1535645810,
+      "hash_meta": "d4f2e82fa7345f23cfc396ecb03fe5079faed573148246a60cb662783fb43f43",
+      "seqno": 3539084
+    },
+    "revoke": {
+      "sig_ids": [
+        "d6fe66a281cb92c8ffcb77bc6111a3ecb5d4a03aea1126b7414938e3611adc7c0f"
+      ]
+    },
+    "service": {
+      "hostname": "dreg.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1535645812,
+  "expire_in": 157680000,
+  "prev": "21a5947cb6b9e2c70a0bfd254ab22c22fe0b32a2741178fd1f68007fd827bdc6",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMKvAnicrVNdaBxFHL+oSU1isb7Ye6mVLWmhxDhfu7N7RF+qGFLqV0VLa7jOx3/u
+llxur7ubtDWmQagQtfiQCC3BkFbS9pBKGjXFKnhtbFWIHy8iRanQiiVvPtQKKqbO
+BkURH92X2Zn5/z7+v5m5sPrWXFtT99i377V/UTnTtLhQGcztGsunw46M9H6nMOz0
+w8oAFQ1JWuwPtVNwEEZYY2KwhwMc+ILRQAsVKC4VYtjlmnKJXSyp6ytsqArADwyn
+PhVcEKwZ5shFwul0TFgtQVyLw2pqabVPMGPY01q4wlfCKGmnKtCAASvXQ5QEmHFi
+geUoyRDWnBQJdIWRXbOT4oq9/6j/n30PrtAZiShVTBIIkM+JBGx9E2wAc+kRHGSF
+CcRVMQCZqxhKzkinMwBxfwWKcRSlWbAqDbNt7FLXY66PkW1OJOXiAKQiQzFDwCdG
+cMpcQ6gyigYeKCttwEU8MAK0yylmPmGe8JCSnke4T41k1DBqPSSwpxo5BepSa5NZ
+BzEMRf2QiSdhyUaWOIVdjvYMeJ4gPlYyIMo3Nn1ug/EwxoJaQVczgagAgTHxJGeY
+BdQHaveFVlwh4/SNZGLxUKhWyLMz+kfvXfav06nFURqpqGIXy2laSwpZJOn+Wla1
+F2TxT3xRhlVtL4dFDEGchFHVRmQr/50W6XRgXy2MoRhmFS73fGS/TAeGLCWxRxIw
+bkORARDFkUDSaOIyIQlRhBhAkhJBbDuY+0ZjkxFwY68il1p5f8fHrU1RspQ2s6pI
+B2NwRhbOPXtbrqkt19J8S/Zocm2ta/56St8dXnVz6+PpQ3f3fbrq8OndG+5Yd/b6
+poVHflv2335mfPz2N946dk++3vj4yGT37J0zm0/2zlYmGtcvTrUvq1/3dnz07ra7
+xtnxBv39cu2rK8/Njv1Elnbva/y8sd6z/bxs3vZypaN183D+0sToxvOnTu6pTH24
+6dqbl9/ZWk8aLcX68ZlvXnp9tPrljhfNjhulc1NH+w7uXJo5tDaZ3/LwYu7QibPD
++fK6yQvda39oe6H3UvPnaO7+Gx3T20898PXFxeX5woYr7okH753/vnygRNDzT869
+39NypHsUPtgy2/vYgaenr/VE+Uenf1nSjc9uHltufWJ6/dUzr/x4cGT11VdPz42q
+yfCT9vue6ppYf/S1+h9o2X7F
+=tBgv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dreg
+
+==================================================================
