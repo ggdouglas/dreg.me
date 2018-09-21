@@ -1,3 +1,3 @@
-# dreg.me Website
+# dreg.me
 
 https://www.dreg.me
