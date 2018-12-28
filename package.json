@@ -14,6 +14,6 @@
     "postbuild": "cp src/keybase.txt dist"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.9.7"
+    "parcel-bundler": "^1.11.0"
   }
 }
