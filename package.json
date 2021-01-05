@@ -1,12 +1,12 @@
 {
-  "name": "dreg",
+  "name": "dreg.me",
   "version": "1.0.0",
   "description": "Personal website",
   "author": "Greg Douglas <gwshark0@gmail.com>",
   "license": "MIT",
   "main": "index.js",
-  "repository": "GWShark0/dreg",
-  "homepage": "https://github.com/GWShark0/dreg#readme",
+  "repository": "GWShark0/dreg.me",
+  "homepage": "https://github.com/GWShark0/dreg.me#readme",
   "scripts": {
     "start": "parcel src/index.html",
     "prebuild": "rm -rf dist",
