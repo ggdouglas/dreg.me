@@ -4,16 +4,13 @@
   "description": "Personal website",
   "author": "Greg Douglas <gwshark0@gmail.com>",
   "license": "MIT",
-  "main": "index.js",
   "repository": "GWShark0/dreg.me",
   "homepage": "https://github.com/GWShark0/dreg.me#readme",
   "scripts": {
-    "start": "parcel src/index.html",
-    "prebuild": "rm -rf dist",
-    "build": "parcel build src/index.html",
-    "postbuild": "cp src/keybase.txt dist"
+    "start": "snowpack dev",
+    "build": "snowpack build"
   },
   "devDependencies": {
-    "parcel": "^1.12.4"
+    "snowpack": "^2.18.5"
   }
 }

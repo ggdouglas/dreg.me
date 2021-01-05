@@ -7,7 +7,4 @@ npm-debug.log*
 node_modules/
 
 # Build directory
-dist/
-
-# Build cache
-.cache
+build/
